@@ -31,7 +31,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\SourceCode\\Learning\\C#\\FinShark\\api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T04:54:08.961Z",
               "EditorCaption": ""
@@ -56,8 +56,7 @@
               "RelativeToolTip": "Controllers\\StockController.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAmwEIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T10:35:31.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T10:35:31.121Z"
             }
           ]
         }
