@@ -139,3 +139,7 @@ D:\SourceCode\Learning\C#\FinShark\api\bin\Debug\net8.0\api.runtimeconfig.json
 D:\SourceCode\Learning\C#\FinShark\api\bin\Debug\net8.0\api.pdb
 D:\SourceCode\Learning\C#\FinShark\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 D:\SourceCode\Learning\C#\FinShark\api\obj\Debug\net8.0\ref\api.dll
+D:\SourceCode\Learning\C#\FinShark\api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\SourceCode\Learning\C#\FinShark\api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\SourceCode\Learning\C#\FinShark\api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\SourceCode\Learning\C#\FinShark\api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
